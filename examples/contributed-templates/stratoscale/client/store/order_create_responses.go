@@ -13,7 +13,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/go-swagger/go-swagger/examples/contributed-templates/stratoscale/models"
+	"github.com/istforks/go-swagger/examples/contributed-templates/stratoscale/models"
 )
 
 // OrderCreateReader is a Reader for the OrderCreate structure.

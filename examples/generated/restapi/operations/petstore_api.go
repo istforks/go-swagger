@@ -19,9 +19,9 @@ import (
 	"github.com/go-openapi/strfmt"
 	"github.com/go-openapi/swag"
 
-	"github.com/go-swagger/go-swagger/examples/generated/restapi/operations/pet"
-	"github.com/go-swagger/go-swagger/examples/generated/restapi/operations/store"
-	"github.com/go-swagger/go-swagger/examples/generated/restapi/operations/user"
+	"github.com/istforks/go-swagger/examples/generated/restapi/operations/pet"
+	"github.com/istforks/go-swagger/examples/generated/restapi/operations/store"
+	"github.com/istforks/go-swagger/examples/generated/restapi/operations/user"
 )
 
 // NewPetstoreAPI creates a new Petstore instance

@@ -8,8 +8,8 @@ import (
 	flags "github.com/jessevdk/go-flags"
 	"github.com/stretchr/testify/require"
 
-	"github.com/go-swagger/go-swagger/cmd/swagger/commands/generate"
-	"github.com/go-swagger/go-swagger/generator/internal/gentest"
+	"github.com/istforks/go-swagger/cmd/swagger/commands/generate"
+	"github.com/istforks/go-swagger/generator/internal/gentest"
 )
 
 const (
